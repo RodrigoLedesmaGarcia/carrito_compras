@@ -1,0 +1,13 @@
+www\rodrigoledesmagarcia\com\mx\services\LoginServiceCookieImpl.class
+www\rodrigoledesmagarcia\com\mx\models\Carro.class
+www\rodrigoledesmagarcia\com\mx\controllers\ProductoServlet.class
+www\rodrigoledesmagarcia\com\mx\controllers\AgregarCarroServlet.class
+www\rodrigoledesmagarcia\com\mx\models\ItemCarro.class
+www\rodrigoledesmagarcia\com\mx\services\ProductoServiceImpl.class
+www\rodrigoledesmagarcia\com\mx\services\LoginService.class
+www\rodrigoledesmagarcia\com\mx\services\ProductoService.class
+www\rodrigoledesmagarcia\com\mx\controllers\LoginServlet.class
+www\rodrigoledesmagarcia\com\mx\controllers\LogoutServlet.class
+www\rodrigoledesmagarcia\com\mx\models\Producto.class
+www\rodrigoledesmagarcia\com\mx\services\LoginServiceSessionImpl.class
+www\rodrigoledesmagarcia\com\mx\controllers\VerCarroServlet.class
